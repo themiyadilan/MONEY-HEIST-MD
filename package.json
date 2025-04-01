@@ -9,7 +9,7 @@
     "restart": "pm2 restart MoneyHeistMD"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "latest", 
+   "@whiskeysockets/baileys": "github:AxellNetwork/Baileys", 
     "@adiwajshing/keyed-db": "^0.2.4",
     "@octokit/rest": "21.1.0",
     "dotenv": "^16.3.1",
